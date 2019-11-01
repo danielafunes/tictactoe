@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/danielafunes/tictactoe.git/static/css/main.3fa7586b.chunk.css",
+    "main.js": "/danielafunes/tictactoe.git/static/js/main.19c8a519.chunk.js",
+    "main.js.map": "/danielafunes/tictactoe.git/static/js/main.19c8a519.chunk.js.map",
+    "runtime-main.js": "/danielafunes/tictactoe.git/static/js/runtime-main.b074559e.js",
+    "runtime-main.js.map": "/danielafunes/tictactoe.git/static/js/runtime-main.b074559e.js.map",
+    "static/js/2.52dd166e.chunk.js": "/danielafunes/tictactoe.git/static/js/2.52dd166e.chunk.js",
+    "static/js/2.52dd166e.chunk.js.map": "/danielafunes/tictactoe.git/static/js/2.52dd166e.chunk.js.map",
+    "index.html": "/danielafunes/tictactoe.git/index.html",
+    "precache-manifest.a753b4752a210e44d4e8c7accd72a970.js": "/danielafunes/tictactoe.git/precache-manifest.a753b4752a210e44d4e8c7accd72a970.js",
+    "service-worker.js": "/danielafunes/tictactoe.git/service-worker.js",
+    "static/css/main.3fa7586b.chunk.css.map": "/danielafunes/tictactoe.git/static/css/main.3fa7586b.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b074559e.js",
+    "static/js/2.52dd166e.chunk.js",
+    "static/css/main.3fa7586b.chunk.css",
+    "static/js/main.19c8a519.chunk.js"
+  ]
+}
